@@ -4,7 +4,7 @@
 #Updated: 23/05/20
 #Author: Wee
 
-License: This script can be modified and distributed as long as this read-me file is included and adequate credit given.
+Usage: This script can be modified and distributed as long as this read-me file is included and adequate credit given.
 
 This script was written for those who get stuck into things and lose track of time
 
